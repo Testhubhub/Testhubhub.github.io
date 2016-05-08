@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: Soul
 email: ""
-description: "Photo Journal"
+description: "Soual Journal"
 #url: "http://Testhubhub.github.io"
 #baseurl: /Testhubhub
 instagram_username: ""
@@ -13,10 +13,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "photorama"
+  name:   "小粒玲"
   avatar: avatar.png
   favicon: favicon.ico
-  description: "Photo Journal"
+  description: "慧质兰心"
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
