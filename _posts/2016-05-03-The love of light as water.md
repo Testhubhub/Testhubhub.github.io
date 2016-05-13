@@ -6,7 +6,7 @@ image:
   feature: "23.jpg"
 date:       2016-05-13
 author:     "小粒玲"
-header-img: "http://7xtust.com2.z0.glb.clouddn.com/%E4%B8%B9%E9%A1%B6%E9%B9%A4.jpg"
+header-img: "/img/postcover丹顶鹤.jpg"
 tags: [tag04]
 categories: [cat04]
 comments: true
