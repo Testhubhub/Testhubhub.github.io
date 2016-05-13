@@ -6,7 +6,7 @@ image:
   feature: "23.jpg"
 date:       2016-05-13
 author:     "小粒玲"
-header-img: "img/postcover丹顶鹤.jpg"
+header-img: "img/postcover/丹顶鹤.jpg"
 tags: [tag04]
 categories: [cat04]
 comments: true
