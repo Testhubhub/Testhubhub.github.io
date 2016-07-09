@@ -3,7 +3,7 @@ layout:     post
 title:      "大鱼归去，海棠花开"
 subtitle:   "心向自由，情往深处"
 image:
-  feature: "大鱼海棠2.jpeg"
+  feature: "大鱼海棠2.jpg"
 date:       2016-07-09
 author:     "小粒玲"
 header-img: "img/postcover/大鱼海棠.jpg"
